@@ -48,7 +48,7 @@ func main() {
 		}
 	}
 
-	// rl.DisableCursor()
+	rl.DisableCursor()
 
 	rl.SetTargetFPS(60)
 
